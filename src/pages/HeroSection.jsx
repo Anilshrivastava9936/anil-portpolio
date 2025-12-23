@@ -1,7 +1,7 @@
 import { Navigate } from "react-router-dom";
 import { motion } from 'framer-motion';
 import TypingText from "../components/TypingText";
-import anil from '../assets/anil.png'
+import anil from '../assets/anil.jpeg'
 
 export default function Hero() {
 
